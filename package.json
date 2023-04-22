@@ -1,10 +1,7 @@
 {
   "engines": {
-    "node": "18.15.0",
-    "npm": "9.5.0"
-    
+    "node": "v16.19.0", "npm": "8.19.3"
   },
-
   "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
@@ -17,7 +14,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Hadibadi99/web"
-            
   },
   "keywords": [],
   "author": "Jacobo Martinez",
@@ -35,9 +31,9 @@
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.3",
     "jquery": "^3.6.3",
+    "node-sass": "^8.0.0",
     "popper.js": "^1.16.1",
     "react-scripts": "^5.0.1",
     "vanilla-tilt": "^1.8.0"
   }
 }
-
