@@ -1,4 +1,9 @@
 {
+  "engines": {
+    "node": ">=12.x.x",
+    "npm": ">=6.0.0"
+  },
+
   "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
@@ -10,7 +15,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobiwave/simplefolio"
+    "url": "git+https://github.com/Hadibadi99/web"
+            
   },
   "keywords": [],
   "author": "Jacobo Martinez",
@@ -33,3 +39,4 @@
     "vanilla-tilt": "^1.8.0"
   }
 }
+
